@@ -1,0 +1,8 @@
+<group name="local,syscheck,">
+  <!-- Custom rule used in my Enterprise 101 homelab -->
+  <rule id="100002" level="10">
+    <if_sid>550</if_sid>
+    <field name="file">secrets.txt</field>
+    <description>File Accessed</description>
+  </rule>
+</group>
