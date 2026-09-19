@@ -19,3 +19,5 @@ These images are included to show the environment I built and the defensive/atta
 <img width="867" height="538" alt="image" src="https://github.com/user-attachments/assets/f5a6179c-b6a2-41ab-9c47-a7d4896f26d2" />
 
 <img width="913" height="117" alt="image" src="https://github.com/user-attachments/assets/33fcf307-8d74-484e-95b3-1e63bdc4c712" />
+
+<img width="203" height="103" alt="image" src="https://github.com/user-attachments/assets/7a857c1c-8ad4-4c6f-884e-fb72a163ced4" />
