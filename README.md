@@ -94,8 +94,7 @@ Investigate Activity in Wazuh
 - [Detection Engineering](detections/README.md)
 - [Troubleshooting](troubleshooting/README.md)
 - [Lessons Learned](lessons-learned.md)
-- [Resume Bullets](career/resume-bullets.md)
-- [Interview Talking Points](career/interview-talking-points.md)
+- [Screenshots](screenshots/README.md)
 
 ## My Biggest Takeaway
 
