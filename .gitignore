@@ -1,0 +1,26 @@
+# Secrets and environment files
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+credentials.txt
+passwords.txt
+secrets.local.txt
+
+# Logs that may contain simulated credentials
+creds.log
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
